@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('text.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif; /* Основной шрифт для всего документа */
+}
